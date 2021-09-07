@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&theme=prussian&show_icons=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)(https://github.com/JBR-Bunjie/JBR-Bunjie)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&layout=compact&show_icons=true)
 
 
