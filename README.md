@@ -7,9 +7,10 @@ you can contact me through my email: JBR_Bunjie@outlook.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&layout=compact&show_icons=true)
 
 All My Public Repositories were listed here:
+<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)](https://github.com/JBR-Bunjie/JBR-Bunjie)
 
-<img src="./back.jpg" width="640px">
+<img src="./back.jpg" width="900px">
 
 <!--
 **JBR-Bunjie/JBR-Bunjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
