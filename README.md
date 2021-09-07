@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div width="600px">	
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&theme=prussian&show_icons=true)]
+</div>
+<div width="600px">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)]
+</div>
+<div width="600px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&show_icons=true)]
+</div>
 <!--
 **JBR-Bunjie/JBR-Bunjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
