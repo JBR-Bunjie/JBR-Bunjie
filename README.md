@@ -12,6 +12,7 @@ thanks for your patience! I hope you have a nice day!
 All My Public Repositories were listed here:
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=JBR-Bunjie)](https://github.com/JBR-Bunjie/JBR-Bunjie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBR-Bunjie&theme=prussian&repo=BunjieBotForQQ)](https://github.com/JBR-Bunjie/JBR-Bunjie)
 
 <img src="./back.jpg" width="900px">
 
