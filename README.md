@@ -2,7 +2,9 @@
 
 Hope you can have a nice day!😄
 <br />
+<br />
 you can contact me through my email if you need: JBR_Bunjie@outlook.com
+<br />
 <br />
 thanks for your patience! I hope you have a nice day!
 
