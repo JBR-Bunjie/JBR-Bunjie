@@ -1,12 +1,9 @@
 # Hi there 👋
 
-Hope you can have a nice day!😄
+you can contact me through my email if you need: `JBR_Bunjie@outlook.com`🤔
 <br />
 <br />
-you can contact me through my email if you need: JBR_Bunjie@outlook.com
-<br />
-<br />
-thanks for your patience! I hope you have a nice day!
+thanks for your patience! I hope you have a nice day! 😄
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&theme=prussian&show_icons=true)-->
 
