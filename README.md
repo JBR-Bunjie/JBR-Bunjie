@@ -1,12 +1,15 @@
 # Hi there 👋
 
-you can contact me through my email: JBR_Bunjie@outlook.com
-
+Hope you can have a nice day!😄
+<br />
+you can contact me through my email if you need: JBR_Bunjie@outlook.com
+<br />
 thanks for your patience! I hope you have a nice day!
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&theme=prussian&show_icons=true)-->
 
-![JBR-Bunjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&show_icons=true&theme=prussian&layout=compact&show_icons=true)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&layout=compact&show_icons=true">
-
+<!--![JBR-Bunjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBR-Bunjie&show_icons=true&theme=prussian&layout=compact&show_icons=true)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBR-Bunjie&theme=prussian&layout=compact&show_icons=true">-->
+<img src="./back.jpg">
 
 
 <!--
